@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Zero-G Coffee Pods",
+    "image": "☕",
+    "from": "Orbital Station Z-12",
+    "nutrients": "Caffeine, Stamina Boost",
+    "quantity": "12 pods",
+    "price": "12.99",
+    "organic": true,
+    "description": "Brewed in anti-gravity environments, these coffee pods keep astronauts and explorers energized. Infused with solar-roasted beans and enhanced with space-grade nutrients."
+  },
+  {
+    "id": 1,
+    "productName": "Meteor Dust Cologne",
+    "image": "🌠",
+    "from": "Andromeda Scent Labs",
+    "nutrients": "Cosmic Aroma",
+    "quantity": "100 ml",
+    "price": "29.99",
+    "organic": false,
+    "description": "A luxury scent made from captured meteor trails. Guaranteed to leave a cosmic impression in every quadrant. Best seller in 17 galaxies!"
+  },
+  {
+    "id": 2,
+    "productName": "AstroFruit Gel",
+    "image": "🍇",
+    "from": "Titan BioDomes",
+    "nutrients": "Vitamin C, Oxygen Releasers",
+    "quantity": "150g",
+    "price": "6.50",
+    "organic": true,
+    "description": "A gel-based supplement derived from space-grown fruits on Titan. Refreshing, nutrient-packed, and designed to hydrate your cells instantly."
+  },
+  {
+    "id": 3,
+    "productName": "Quantum Energy Crystals",
+    "image": "💎",
+    "from": "Crystal Core, Mars",
+    "nutrients": "Energy Frequency Boosters",
+    "quantity": "1 cluster",
+    "price": "45.00",
+    "organic": false,
+    "description": "Used by deep-space pilots, these crystals vibrate at high frequencies to enhance alertness, cognition, and warp-drive focus."
+  },
+  {
+    "id": 4,
+    "productName": "Lunar Sand Face Mask",
+    "image": "🌕",
+    "from": "Moon Spa Labs",
+    "nutrients": "Minerals, Hydration",
+    "quantity": "80ml tube",
+    "price": "15.00",
+    "organic": true,
+    "description": "Harvested from the finest lunar dust, this soothing face mask hydrates and rejuvenates even the most stressed-out astronaut skin."
+  }
+]
