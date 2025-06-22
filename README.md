@@ -23,9 +23,8 @@ This is a simple Node.js project.
 
 3. **Run the project:**
    ```bash
-   node <your-main-file>.js
+   node index.js
    ```
-   Replace `<your-main-file>.js` with your main entry file (e.g., `app.js` or `index.js`).
 
 ## Project Structure
 
@@ -44,6 +43,6 @@ This is a simple Node.js project.
 - Do not commit `node_modules/` or sensitive files.
 - Edit `.env` for environment variables if needed.
 
-## License
+## Author
 
-This project is licensed under the MIT License.
+Mohammad Asef
